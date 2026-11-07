@@ -139,7 +139,8 @@ The first attempts failed, which is worth knowing: a typo in the parameter name,
 
 ## Screenshots
 
-Add these to a `screenshots/` folder and uncomment the lines below once the images are uploaded. Crop out any typed passwords first.
+<img width="1288" height="936" alt="image" src="https://github.com/user-attachments/assets/f298d957-2891-42d2-88cf-400917ccafb3" />
+<img width="1028" height="851" alt="image" src="https://github.com/user-attachments/assets/f97dbefc-cafd-48a3-b3c9-bf9ddf3d3726" />
 
 <!--
 ![VirtualBox network set to LabNet](screenshots/01-dc01-network-labnet.png)
