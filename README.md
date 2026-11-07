@@ -118,9 +118,11 @@ It took me a few tries, because of a typo and a password rule I didn't know abou
 | The password reset was rejected for not meeting the requirements | Active Directory doesn't allow a password that contains the user's account name | Picked a password without any part of the name |
 
 ## Screenshots
-
-<img width="1288" height="936" alt="image" src="https://github.com/user-attachments/assets/f298d957-2891-42d2-88cf-400917ccafb3" />
-<img width="1028" height="851" alt="image" src="https://github.com/user-attachments/assets/f97dbefc-cafd-48a3-b3c9-bf9ddf3d3726" />
+### Proof the client joined the domain
+In this images show on DC01 listed both of the machines 
+<img width="1024" height="847" alt="image" src="https://github.com/user-attachments/assets/0bd57900-bf09-4771-9471-7a47a5e195b3" />
+On PC01, `whoami` shows the domain account and `hostname`
+<img width="1288" height="932" alt="image" src="https://github.com/user-attachments/assets/b4eba433-1ae7-4738-ae6c-d34ec4e80a2f" />
 
 <!--
 ![VirtualBox network set to LabNet](screenshots/01-dc01-network-labnet.png)
