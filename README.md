@@ -123,6 +123,8 @@ In this images show on DC01 listed both of the machines
 <img width="1024" height="847" alt="image" src="https://github.com/user-attachments/assets/0bd57900-bf09-4771-9471-7a47a5e195b3" />
 On PC01, `whoami` shows the domain account and `hostname`
 <img width="1288" height="932" alt="image" src="https://github.com/user-attachments/assets/b4eba433-1ae7-4738-ae6c-d34ec4e80a2f" />
+This is both authorized VM officially VM own by Minh Vo
+<img width="453" height="398" alt="image" src="https://github.com/user-attachments/assets/7f314e0f-757c-4120-9d04-596a707bfd75" />
 
 <!--
 ![VirtualBox network set to LabNet](screenshots/01-dc01-network-labnet.png)
